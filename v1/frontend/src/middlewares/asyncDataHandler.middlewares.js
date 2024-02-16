@@ -9,6 +9,8 @@ const asyncDataHandle = asyncHandler(async (req, _, next) => {
     try {
         const systemInfo = req.body['CPU Stats']
         const pcNo = req.body.pc_no
+        const  activeStatus = {isActive: true}
+
         if (!systemInfo) throw new ApiError(401, "Unavailable systemInfo from client")
         
         
@@ -17,14 +19,15 @@ const asyncDataHandle = asyncHandler(async (req, _, next) => {
             collectionsOFClientPC[pcNo].shutdownRequested = false;
     
             req.systemInfo = collectionsOFClientPC[pcNo]
-    
+            req.collectionsOFClientPC = collectionsOFClientPC
             next()
-    
+            
         }
         else {
-            collectionsOFClientPC[pcNo] = { systemInfo, pcNo, lastResponseTime: Date.now() };
-            console.log(collectionsOFClientPC[pcNo]);
+            collectionsOFClientPC[pcNo] = { systemInfo, pcNo, lastResponseTime: Date.now(), isActive: true };
+            console.log(JSON.stringify(collectionsOFClientPC[pcNo]));
             req.systemInfo = collectionsOFClientPC[pcNo]
+            req.collectionsOFClientPC = collectionsOFClientPC
             next() 
         }
     } catch (error) {
@@ -33,15 +36,16 @@ const asyncDataHandle = asyncHandler(async (req, _, next) => {
 
 })
 
-// setInterval(() => {
-//     const currentTime = Date.now();
-//     Object.keys(collectionsOFClientPC).forEach((pcNo) => {
-//       const lastResponseTime = collectionsOFClientPC[pcNo].lastResponseTime;
-//       if (currentTime - lastResponseTime > 6000) {
-//         delete collectionsOFClientPC[pcNo];
-//         console.log(`Removing inactive child PC: ${pcNo}`);
-//       }
-//     });
-//   }, 1000);
+setInterval(() => {
+    const currentTime = Date.now();
+    Object.keys(collectionsOFClientPC).forEach((pcNo) => {
+      const lastResponseTime = collectionsOFClientPC[pcNo].lastResponseTime;
+      if (currentTime - lastResponseTime > 6000 & collectionsOFClientPC[pcNo]['isActive']) {
+        collectionsOFClientPC[pcNo]['isActive'] = false;
+
+        console.log(`Removing inactive child PC: ${pcNo}`);
+      }
+    });
+  }, 1000);
 
 export default asyncDataHandle

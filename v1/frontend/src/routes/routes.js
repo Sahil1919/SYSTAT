@@ -6,9 +6,18 @@ import {getSystemInfo} from "../controllers/getsysteminfo.controllers.js"
 import decryptDataHandler from "../middlewares/decryptData.middlewares.js"
 const router = Router()
 
+let sharedData
 
-router.route('/getstats').post(decryptDataHandler,asyncDataHandle,getStats)
+router.route('/getstats').post(decryptDataHandler,asyncDataHandle, (req, res, next) => {
+    // Process data and store in sharedData
+    sharedData = req.collectionsOFClientPC;
+    next();
+},getStats)
 
-router.route("/getsysteminfo").get(getSystemInfo)
+router.route("/getsysteminfo").get((req, res,next) => {
+    // Access sharedData in the second route
+    req.systemInfo = sharedData;
+    next()
+},getSystemInfo)
 
 export default router

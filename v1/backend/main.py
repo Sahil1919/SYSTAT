@@ -89,7 +89,7 @@ if __name__ == "__main__":
                 dynamic_threshold = calculate_dynamic_threshold()
                 last_threshold_update_time = time.time()
 
-            parent_pc_url = 'http://localhost:8000/api/v1/systat/getstats'
+            parent_pc_url = 'http://192.168.1.206:8000/api/v1/systat/getstats'
 
             current_path = os.path.dirname(__file__)
             cpu_usage = CPU_Usage()
@@ -110,7 +110,7 @@ if __name__ == "__main__":
                 if response.status_code == 200:
                     print(response.json())
 
-                if response.json().get('shutdown', True):
+                if response.json().get('shutdown'):
                     state = handle_shutdown(dynamic_threshold)
 
                     if not state:
