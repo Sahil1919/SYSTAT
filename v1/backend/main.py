@@ -89,7 +89,7 @@ if __name__ == "__main__":
                 dynamic_threshold = calculate_dynamic_threshold()
                 last_threshold_update_time = time.time()
 
-            parent_pc_url = 'http://192.168.1.206:8000/api/v1/systat/getstats'
+            parent_pc_url = 'http://systat.serve/api/v1/getstats'
 
             current_path = os.path.dirname(__file__)
             cpu_usage = CPU_Usage()
