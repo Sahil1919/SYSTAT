@@ -123,7 +123,7 @@ class CPU_Usage:
                 for address in addresses:
                     count += 1
                     info_interface = {f"interface {count}": f"{interface}", "ip_address": f"{address['addr']}",
-                                      "netmask": f"{address['netmask']}", "broadcast_ip": f"{address['broadcast']}"}
+                                      "netmask": f"{address['netmask']}", "broadcast_ip": f"{address.get('broadcast','')}"}
 
                     info_interfaces.append(info_interface)
 

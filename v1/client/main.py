@@ -4,8 +4,8 @@ import os
 import psutil
 import requests
 from cpu_usage import CPU_Usage
-import pygetwindow as gw
-from win10toast import ToastNotifier
+import platform
+from plyer import notification
 from cryptogen import DataEncryption
 
 
@@ -39,17 +39,54 @@ def is_time_to_update_threshold():
 
 
 def is_user_active():
-    try:
-        active_window = gw.getActiveWindow()
-        print(active_window.title)
-        if active_window is not None :
-            if active_window.title != "" or "Lock" in active_window.title:
-                return True
-            else :
-                False
-
-    except Exception as e:
-        print(f"Error checking user activity: {e}")
+    system = platform.system()
+    if system == 'Windows':
+        # Use Windows-specific code to check if the user is active
+        import pygetwindow as gw
+        try:
+            active_window = gw.getActiveWindow()
+            if active_window is not None:
+                if active_window.title != "" or "Lock" in active_window.title:
+                    return True
+                else:
+                    return False
+        except Exception as e:
+            print(f"Error checking user activity on Windows: {e}")
+            return False
+    # elif system == 'Darwin':
+    #     # Use macOS-specific code to check if the user is active
+    #     try:
+    #         import Quartz
+    #         active_app = Quartz.CGWindowListCopyWindowInfo(
+    #             Quartz.kCGWindowListOptionOnScreenOnly | Quartz.kCGWindowListExcludeDesktopElements,
+    #             Quartz.kCGNullWindowID
+    #         )
+    #         for window in active_app:
+    #             if window.get("kCGWindowIsOnscreen", 0) == 1:
+    #                 return True
+    #         return False
+    #     except Exception as e:
+    #         print(f"Error checking user activity on macOS: {e}")
+    #         return False
+    elif system == 'Linux':
+        # Use Linux-specific code to check if the user is active
+        try:
+            from Xlib import X, display
+            d = display.Display()
+            root = d.screen().root
+            windowIDs = root.get_full_property(
+                d.intern_atom('_NET_CLIENT_LIST'), X.AnyPropertyType).value
+            for windowID in windowIDs:
+                window = d.create_resource_object('window', windowID)
+                wm_name = window.get_wm_name()
+                if wm_name:
+                    return True
+            return False
+        except Exception as e:
+            print(f"Error checking user activity on Linux: {e}")
+            return False
+    else:
+        print("Unsupported platform")
         return False
 
 
@@ -57,16 +94,22 @@ def handle_shutdown(threshold):
     try:
         # Check if CPU usage is above the threshold for safe shutdown
         current_cpu = psutil.cpu_percent()
-        print("Current CPU usage : ", current_cpu,"Threshold :", threshold)
+        print("Current CPU usage : ", current_cpu, "Threshold :", threshold)
         if is_user_active():
             return True
-        
-        elif (current_cpu < threshold ):
-                print("Performing safe shutdown operation...")
-                toaster = ToastNotifier()
-                toaster.show_toast(
-                    "Shutdown Prompt", "Shutdown will take place in 10 seconds !", duration=20)
-                return False
+
+        elif (current_cpu < threshold):
+            print("Performing safe shutdown operation...")
+            title = "Shutdown Prompt"
+            message = "Shutdown will take place in 10 seconds !"
+            # Display the notification
+            notification.notify(
+                title=title,
+                message=message,
+                timeout=10
+
+            )
+            return False
             # Add your shutdown logic here
         else:
             return True
@@ -80,16 +123,17 @@ def handle_shutdown(threshold):
 if __name__ == "__main__":
     # Initialize your CPU usage object
     state = True
-
+    print('Started......')
     # Main loop
     while state:
         try:
+            # print(ok)
             # Check if it's time to update the dynamic threshold
             if is_time_to_update_threshold():
                 dynamic_threshold = calculate_dynamic_threshold()
                 last_threshold_update_time = time.time()
 
-            parent_pc_url = 'http://systat.serve.info/api/v1/getstats'
+            parent_pc_url = 'http://192.168.1.213:8000/api/v1/getstats'
 
             current_path = os.path.dirname(__file__)
             cpu_usage = CPU_Usage()
@@ -101,12 +145,14 @@ if __name__ == "__main__":
             with open(f'{current_path}/stats.json', "w+", encoding='utf8') as f:
                 f.write(json.dumps(stats))
 
-            encrypted_data = DataEncryption(data_to_encrypt=json.dumps(stats)).encrypted_data
-            
-            with open(f"{current_path}/temp.json",'w+',encoding='utf8') as f:
+            encrypted_data = DataEncryption(
+                data_to_encrypt=json.dumps(stats)).encrypted_data
+
+            with open(f"{current_path}/temp.json", 'w+', encoding='utf8') as f:
                 f.write(json.dumps(encrypted_data))
             try:
-                response = requests.post(parent_pc_url, json=encrypted_data,  headers={'Content-Type': 'application/json'})
+                response = requests.post(parent_pc_url, json=encrypted_data,  headers={
+                                         'Content-Type': 'application/json'})
                 if response.status_code == 200:
                     print(response.json())
 
