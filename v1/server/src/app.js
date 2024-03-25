@@ -7,11 +7,11 @@ import systatRouter from './routes/routes.js'
 const app = express()
 app.locals.collectionsOFClientPC = {}; 
 
-// app.use(
-//     cors({
-//         origin: process.env.CORS_ORIGIN
-//     })
-// )
+app.use(
+    cors({
+        origin: process.env.CORS_ORIGIN
+    })
+)
 
 app.use(cookieParser())
 app.use(express.json())

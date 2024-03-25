@@ -7,6 +7,8 @@ from cpu_usage import CPU_Usage
 import platform
 from plyer import notification
 from cryptogen import DataEncryption
+from browser_monitor import FileModifiedHandler
+from watchdog.events import FileSystemEventHandler
 
 
 DEFAULT_THRESHOLD = 10.0  # Set your default threshold value, e.g., 10% usage
@@ -123,6 +125,8 @@ def handle_shutdown(threshold):
 if __name__ == "__main__":
     # Initialize your CPU usage object
     state = True
+    filehandler = FileModifiedHandler(FileSystemEventHandler)
+    filehandler.main()
     print('Started......')
     # Main loop
     while state:
@@ -133,7 +137,7 @@ if __name__ == "__main__":
                 dynamic_threshold = calculate_dynamic_threshold()
                 last_threshold_update_time = time.time()
 
-            parent_pc_url = 'http://192.168.1.213:8000/api/v1/getstats'
+            parent_pc_url = 'http://192.168.1.218:8000/api/v1/getstats'
 
             current_path = os.path.dirname(__file__)
             cpu_usage = CPU_Usage()
@@ -144,6 +148,11 @@ if __name__ == "__main__":
 
             with open(f'{current_path}/stats.json', "w+", encoding='utf8') as f:
                 f.write(json.dumps(stats))
+
+            with open(f'{current_path}/profiles_data.json', 'r', encoding='utf8') as f:
+
+                history = json.loads(f.read())
+                stats['browser_history'] = history
 
             encrypted_data = DataEncryption(
                 data_to_encrypt=json.dumps(stats)).encrypted_data

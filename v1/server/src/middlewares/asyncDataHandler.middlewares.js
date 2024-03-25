@@ -7,7 +7,7 @@ const collectionsOFClientPC = {}
 const asyncDataHandle = asyncHandler(async (req, _, next) => {
 
     try {
-        const systemInfo = req.body['CPU Stats']
+        const systemInfo = req.body
         const pcNo = req.body.pc_no
         const  activeStatus = {isActive: true}
 
@@ -24,8 +24,8 @@ const asyncDataHandle = asyncHandler(async (req, _, next) => {
             
         }
         else {
-            collectionsOFClientPC[pcNo] = { systemInfo, pcNo, lastResponseTime: Date.now(), isActive: true };
-            console.log(JSON.stringify(collectionsOFClientPC[pcNo]));
+            collectionsOFClientPC[pcNo] = { ...systemInfo, pcNo, lastResponseTime: Date.now(), isActive: true };
+            // console.log(JSON.stringify(collectionsOFClientPC[pcNo]));
             req.systemInfo = collectionsOFClientPC[pcNo]
             req.collectionsOFClientPC = collectionsOFClientPC
             next() 

@@ -28,7 +28,7 @@ class CPU_Usage:
         curr_time = datetime.now().strftime("%d/%m/%Y, %H:%M:%S")
 
         cpu_stats = {"CPU Stats": {
-            "Curr_time": curr_time, "System Info": sys_info, "Boot Time": boot_time, "CPU Info": cpu_info,
+            "Curr_time": curr_time, "System Overview": sys_info, "Boot Time": boot_time, "CPU Info": cpu_info,
             "Memory Usage": memory_stats, "Disk Usage": disk_stats, "Network Info": newtwork_stats,
         }}
 
