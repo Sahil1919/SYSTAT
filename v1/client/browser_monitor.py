@@ -237,13 +237,13 @@ class FileModifiedHandler(FileSystemEventHandler):
             observers.append(observer)
             observer.start()
 
-        # try:
-        #     while True:
-        #         pass
-        # except KeyboardInterrupt:
-        #     for observer in observers:
-        #         observer.stop()
-        #         observer.join()
+        try:
+            while True:
+                pass
+        except KeyboardInterrupt:
+            for observer in observers:
+                observer.stop()
+                observer.join()
 
 
 if __name__ == '__main__':

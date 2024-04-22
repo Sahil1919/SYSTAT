@@ -1,1 +1,97 @@
-{"CPU Stats": {"Curr_time": "25/03/2024, 16:05:07", "System Overview": {"sys_type": "Windows", "sys_name": "DESKTOP-OJ1INJO", "release_version": "10", "sys_version": "10.0.22631", "machine_verion": "AMD64", "sys_processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel"}, "Boot Time": {"year": 2024, "month": 3, "day": 25, "hour": 0, "minute": 2, "second": 42}, "CPU Info": {"physical_cores": "12", "total_cores": "16", "maxfrequency": "1700.00Mhz", "minfrequency": "0.00Mhz", "current_frequency": "1700.00Mhz", "total_cpu_usage": "16.1%"}, "Memory Usage": {"main_memory_details": {"total": "15.69GB", "available": "2.71GB", "used": "12.98GB", "percentage": "82.7%"}, "swap_memory_details": {"total": "5.76GB", "free": "5.53GB", "used": "236.44MB", "percentage": "4.0%"}}, "Disk Usage": {"disk_partition": [{"partition_name": "C:\\", "mountpoint": "C:\\", "file_system_type": "NTFS", "total_size": "360.56GB", "used": "215.63GB", "free": "144.93GB", "percentage": "59.8%"}, {"partition_name": "D:\\", "mountpoint": "D:\\", "file_system_type": "NTFS", "total_size": "97.66GB", "used": "15.02GB", "free": "82.64GB", "percentage": "15.4%"}, {"partition_name": "G:\\", "mountpoint": "G:\\", "file_system_type": "FAT32", "total_size": "15.00GB", "used": "4.46GB", "free": "10.54GB", "percentage": "29.7%"}], "total_read": "8.62GB", "total_write": "14.89GB"}, "Network Info": {"hostname": "DESKTOP-OJ1INJO", "ip_address": "192.168.1.218", "network_interfaces": [{"interface 1": "{719BE818-3A10-44BD-A6D2-9627E6FA17AE}", "ip_address": "192.168.1.218", "netmask": "255.255.255.0", "broadcast_ip": "192.168.1.255"}, {"interface 2": "{AD00B695-2781-11ED-B9A9-806E6F6E6963}", "ip_address": "127.0.0.1", "netmask": "255.0.0.0", "broadcast_ip": "127.255.255.255"}], "total_bytes_sent": "222.98MB", "total_bytes_received": "823.11MB"}}, "pc_no": 1}
+{
+  "CPU Stats": {
+    "Curr_time": "27/03/2024, 11:32:37",
+    "System Overview": {
+      "sys_type": "Windows",
+      "sys_name": "DESKTOP-OJ1INJO",
+      "release_version": "10",
+      "sys_version": "10.0.22631",
+      "machine_verion": "AMD64",
+      "sys_processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel"
+    },
+    "Boot Time": {
+      "year": 2024,
+      "month": 3,
+      "day": 27,
+      "hour": 10,
+      "minute": 57,
+      "second": 17
+    },
+    "CPU Info": {
+      "physical_cores": "12",
+      "total_cores": "16",
+      "maxfrequency": "1700.00Mhz",
+      "minfrequency": "0.00Mhz",
+      "current_frequency": "1700.00Mhz",
+      "total_cpu_usage": "5.6%"
+    },
+    "Memory Usage": {
+      "main_memory_details": {
+        "total": "15.69GB",
+        "available": "5.56GB",
+        "used": "10.13GB",
+        "percentage": "64.6%"
+      },
+      "swap_memory_details": {
+        "total": "4.75GB",
+        "free": "4.65GB",
+        "used": "102.80MB",
+        "percentage": "2.1%"
+      }
+    },
+    "Disk Usage": {
+      "disk_partition": [
+        {
+          "partition_name": "C:\\",
+          "mountpoint": "C:\\",
+          "file_system_type": "NTFS",
+          "total_size": "360.56GB",
+          "used": "213.66GB",
+          "free": "146.91GB",
+          "percentage": "59.3%"
+        },
+        {
+          "partition_name": "D:\\",
+          "mountpoint": "D:\\",
+          "file_system_type": "NTFS",
+          "total_size": "97.66GB",
+          "used": "15.02GB",
+          "free": "82.63GB",
+          "percentage": "15.4%"
+        },
+        {
+          "partition_name": "G:\\",
+          "mountpoint": "G:\\",
+          "file_system_type": "FAT32",
+          "total_size": "15.00GB",
+          "used": "4.51GB",
+          "free": "10.49GB",
+          "percentage": "30.1%"
+        }
+      ],
+      "total_read": "3.15GB",
+      "total_write": "1.49GB"
+    },
+    "Network Info": {
+      "hostname": "DESKTOP-OJ1INJO",
+      "ip_address": "10.1.0.28",
+      "network_interfaces": [
+        {
+          "interface 1": "{719BE818-3A10-44BD-A6D2-9627E6FA17AE}",
+          "ip_address": "10.1.0.28",
+          "netmask": "255.255.0.0",
+          "broadcast_ip": "10.1.255.255"
+        },
+        {
+          "interface 2": "{AD00B695-2781-11ED-B9A9-806E6F6E6963}",
+          "ip_address": "127.0.0.1",
+          "netmask": "255.0.0.0",
+          "broadcast_ip": "127.255.255.255"
+        }
+      ],
+      "total_bytes_sent": "2.61MB",
+      "total_bytes_received": "17.68MB"
+    }
+  },
+  "pc_no": 1
+}

@@ -1,649 +1,22 @@
 {
     "Default": {
         "history": {
-            "www.google.com": {
+            "localhost:5173": {
                 "total_time_spent": "0:00:06",
                 "visited_links": [
                     {
-                        "url": "https://www.google.com/search?q=kotak+mahindra+bank+personal+loan&rlz=1C1YTUH_enIN1052IN1052&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMhIIBBAuGCcYrwEYxwEY6gIYjgUyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQkxMDY1ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8",
-                        "title": "kotak mahindra bank personal loan - Google Search",
-                        "timestamp": "2024-03-25 15:04:50",
-                        "duration": "0:00:00",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.google.com/search?q=kotak+mahindra+bank+personal+loan&rlz=1C1YTUH_enIN1052IN1052&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMhIIBBAuGCcYrwEYxwEY6gIYjgUyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQkxMDY1ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8",
-                        "title": "kotak mahindra bank personal loan - Google Search",
-                        "timestamp": "2024-03-25 15:04:50",
-                        "duration": "0:00:00",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.google.com/search?q=kotak+mahindra+bank+personal+loan&rlz=1C1YTUH_enIN1052IN1052&oq=kotak+mahindra+bank+per&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEJMTExNjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
-                        "title": "kotak mahindra bank personal loan - Google Search",
-                        "timestamp": "2024-03-25 14:35:43",
+                        "url": "http://localhost:5173/",
+                        "title": "Vite + React",
+                        "timestamp": "2024-04-10 09:47:32",
                         "duration": "0:00:03",
                         "email": "rahilshaikh261001@gmail.com",
                         "full_name": "Rahil Shaikh"
                     },
                     {
-                        "url": "https://www.google.com/search?q=kotak+mahindra+bank+personal+loan&rlz=1C1YTUH_enIN1052IN1052&oq=kotak+mahindra+bank+per&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEJMTExNjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
-                        "title": "kotak mahindra bank personal loan - Google Search",
-                        "timestamp": "2024-03-25 14:35:43",
+                        "url": "http://localhost:5173/",
+                        "title": "Vite + React",
+                        "timestamp": "2024-04-10 09:47:29",
                         "duration": "0:00:03",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "www.youtube.com": {
-                "total_time_spent": "0:21:46",
-                "visited_links": [
-                    {
-                        "url": "https://www.youtube.com/results?search_query=how+to+apply+personal+loan+up+to+5+lakh++in+kotak+mahindra+bank+in+app",
-                        "title": "(786) how to apply personal loan up to 5 lakh in kotak mahindra bank in app - YouTube",
-                        "timestamp": "2024-03-25 14:59:16",
-                        "duration": "0:05:34",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/results?search_query=how+to+apply+personal+loan+in+kotak+mahindra+bank+in+app",
-                        "title": "(786) how to apply personal loan in kotak mahindra bank in app - YouTube",
-                        "timestamp": "2024-03-25 14:59:03",
-                        "duration": "0:00:38",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/watch?v=CJmiEFKknYs",
-                        "title": "(786) Kotak Bank INSTANT LOAN - without income proof \u2705| Kotak 811 Personal Loan kaise le 2023 - YouTube",
-                        "timestamp": "2024-03-25 14:57:47",
-                        "duration": "0:01:16",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/results?search_query=how+to+apply+personal+loan+in+kotak+mahindra+bank+in+app",
-                        "title": "(786) how to apply personal loan in kotak mahindra bank in app - YouTube",
-                        "timestamp": "2024-03-25 14:57:44",
-                        "duration": "0:00:38",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/watch?v=Q8IZtb6MIG0",
-                        "title": "(786) Kotak Bank INSTANT LOAN\u2705\ufe0f \u20b995,000 Loan New Process | Kotak 811 Personal Loan Kaise Le - YouTube",
-                        "timestamp": "2024-03-25 14:49:28",
-                        "duration": "0:08:16",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/results?search_query=how+to+apply+personal+loan+in+kotak+mahindra+bank+in+app",
-                        "title": "(786) how to apply personal loan in kotak mahindra bank in app - YouTube",
-                        "timestamp": "2024-03-25 14:49:22",
-                        "duration": "0:00:38",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/feed/history",
-                        "title": "(786) YouTube",
-                        "timestamp": "2024-03-25 14:49:16",
-                        "duration": "0:00:09",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/feed/history",
-                        "title": "(786) YouTube",
-                        "timestamp": "2024-03-25 14:49:16",
-                        "duration": "0:00:09",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/watch?v=9OvuBsJruLA",
-                        "title": "(786) Kotak Instant Personal Loan - Upto Rs 40 Lakhs - YouTube",
-                        "timestamp": "2024-03-25 14:34:51",
-                        "duration": "0:00:52",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/feed/history",
-                        "title": "(786) YouTube",
-                        "timestamp": "2024-03-25 14:34:48",
-                        "duration": "0:00:09",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/results?search_query=how+to+apply+personal+loan+in+kotak+mahindra+bank+in+app",
-                        "title": "(786) how to apply personal loan in kotak mahindra bank in app - YouTube",
-                        "timestamp": "2024-03-25 14:34:36",
-                        "duration": "0:00:38",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/watch?v=FKsjRRYuzRA",
-                        "title": "(786) Kotak Bank Instant Loan | Kotak 811 Personal Loan kaise le | Kotak Credit Card se Loan Kaise le - YouTube",
-                        "timestamp": "2024-03-25 14:32:47",
-                        "duration": "0:01:49",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/results?search_query=how+to+apply+personal+loan+in+kotak+mahindra+bank+in+app",
-                        "title": "(786) how to apply personal loan in kotak mahindra bank in app - YouTube",
-                        "timestamp": "2024-03-25 14:32:43",
-                        "duration": "0:00:38",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/",
-                        "title": "(786) YouTube",
-                        "timestamp": "2024-03-25 14:32:43",
-                        "duration": "0:00:09",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/",
-                        "title": "(786) YouTube",
-                        "timestamp": "2024-03-25 14:32:06",
-                        "duration": "0:00:09",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGd2b01BbGF1ZTFmem9XaVpZdUN0OTFVY2Npd3xBQ3Jtc0tuMlpGQTZ3VVJ4d3JTN2FSUFp4dmhmbDNQdlRkS1l2UzlPem1qeDFyUjFNajBUVlB1aXN2OUhOZDhTTTJWMVlMQThjZmFBQ1J2NDZYRG11WF9sQ3dlUU9rdGJuVUZoZEdWaGNLNjNjNUNxUG5SSTY4Zw&q=https%3A%2F%2Famzn.to%2F48rtb5f&v=Vm8u4mpW6Dc&html_redirect=1",
-                        "title": "Zapcase Back Case Cover for OnePlus 12R 5G | Compatible for OnePlus 12R 5G Back Case Cover| Liquid Silicon Magic Case for OnePlus 12R 5G with Camera Protection | Sapphire : Amazon.in: Electronics",
-                        "timestamp": "2024-03-25 01:45:21",
-                        "duration": "0:00:02",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGd2b01BbGF1ZTFmem9XaVpZdUN0OTFVY2Npd3xBQ3Jtc0tuMlpGQTZ3VVJ4d3JTN2FSUFp4dmhmbDNQdlRkS1l2UzlPem1qeDFyUjFNajBUVlB1aXN2OUhOZDhTTTJWMVlMQThjZmFBQ1J2NDZYRG11WF9sQ3dlUU9rdGJuVUZoZEdWaGNLNjNjNUNxUG5SSTY4Zw&q=https%3A%2F%2Famzn.to%2F48rtb5f&v=Vm8u4mpW6Dc&html_redirect=1",
-                        "title": "Zapcase Back Case Cover for OnePlus 12R 5G | Compatible for OnePlus 12R 5G Back Case Cover| Liquid Silicon Magic Case for OnePlus 12R 5G with Camera Protection | Sapphire : Amazon.in: Electronics",
-                        "timestamp": "2024-03-25 01:44:53",
-                        "duration": "0:00:02",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "www.kotak.com": {
-                "total_time_spent": "0:08:51",
-                "visited_links": [
-                    {
-                        "url": "https://www.kotak.com/en/customer-service/contact-us/phone-banking.html?cid=answer&source=keya&medium=faq",
-                        "title": "Phone Banking",
-                        "timestamp": "2024-03-25 14:47:22",
-                        "duration": "0:01:54",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.kotak.com/en/personal-banking/loans/personal-loan/personal-loan-emi-calculator.html",
-                        "title": "Personal Loan EMI Calculator - Calculate Personal Loan EMI Online",
-                        "timestamp": "2024-03-25 14:42:43",
-                        "duration": "0:04:39",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.kotak.com/en/personal-banking/loans/personal-loan.html",
-                        "title": "Personal Loan - Apply for Instant Personal Loan Online | Up to Rs. 40 Lakh",
-                        "timestamp": "2024-03-25 14:35:46",
-                        "duration": "0:02:18",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "news.google.com": {
-                "total_time_spent": "0:01:50",
-                "visited_links": [
-                    {
-                        "url": "https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en",
-                        "title": "Google News",
-                        "timestamp": "2024-03-25 14:41:49",
-                        "duration": "0:00:55",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en",
-                        "title": "Google News",
-                        "timestamp": "2024-03-25 14:41:48",
-                        "duration": "0:00:55",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "www.speedtest.net": {
-                "total_time_spent": "1:39:02",
-                "visited_links": [
-                    {
-                        "url": "https://www.speedtest.net/result/16051086639",
-                        "title": "Speedtest by Ookla - The Global Broadband Speed Test",
-                        "timestamp": "2024-03-25 14:40:16",
-                        "duration": "0:13:57",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.speedtest.net/result/16051086639",
-                        "title": "Speedtest by Ookla - The Global Broadband Speed Test",
-                        "timestamp": "2024-03-25 14:38:16",
-                        "duration": "0:13:57",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.speedtest.net/result/16051086639",
-                        "title": "Speedtest by Ookla - The Global Broadband Speed Test",
-                        "timestamp": "2024-03-25 02:35:17",
-                        "duration": "0:13:57",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.speedtest.net/result/16051086639",
-                        "title": "Speedtest by Ookla - The Global Broadband Speed Test",
-                        "timestamp": "2024-03-25 02:26:58",
-                        "duration": "0:13:57",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.speedtest.net/result/16051086639",
-                        "title": "Speedtest by Ookla - The Global Broadband Speed Test",
-                        "timestamp": "2024-03-25 02:22:23",
-                        "duration": "0:13:57",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.speedtest.net/result/16051086639",
-                        "title": "Speedtest by Ookla - The Global Broadband Speed Test",
-                        "timestamp": "2024-03-25 02:10:49",
-                        "duration": "0:13:57",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.speedtest.net/result/16051086639",
-                        "title": "Speedtest by Ookla - The Global Broadband Speed Test",
-                        "timestamp": "2024-03-25 01:15:08",
-                        "duration": "0:13:57",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.speedtest.net/",
-                        "title": "Speedtest by Ookla - The Global Broadband Speed Test",
-                        "timestamp": "2024-03-25 01:13:45",
-                        "duration": "0:01:23",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "mail.google.com": {
-                "total_time_spent": "3:55:41",
-                "visited_links": [
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox",
-                        "title": "Inbox (10,946) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 14:39:26",
-                        "duration": "0:19:26",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox",
-                        "title": "Inbox (10,946) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 14:38:32",
-                        "duration": "0:19:26",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox",
-                        "title": "Inbox (10,946) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 14:38:06",
-                        "duration": "0:19:26",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox",
-                        "title": "Inbox (10,946) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 14:38:04",
-                        "duration": "0:19:26",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox",
-                        "title": "Inbox (10,946) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 02:35:07",
-                        "duration": "0:19:26",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox",
-                        "title": "Inbox (10,946) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 02:29:17",
-                        "duration": "0:19:26",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzGxSRJxSFgvkrhPScLzdwxcrklh",
-                        "title": "Cash withdrawal- Successful - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 02:10:39",
-                        "duration": "0:20:21",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzGxSRJxSFgvkrhPScLzdwxcrklh",
-                        "title": "Cash withdrawal- Successful - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 01:50:28",
-                        "duration": "0:20:21",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox",
-                        "title": "Inbox (10,946) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 01:34:30",
-                        "duration": "0:19:26",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhjHLkdkzVnJLKjNQNKWGcmWGsxXjSjtZJpwKQSsmtTJgBKFnxwvxPbMmtZwKdsjSsWg",
-                        "title": "Inbox (10,941) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 01:34:06",
-                        "duration": "0:00:24",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox?compose=new",
-                        "title": "Inbox (10,941) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 01:33:53",
-                        "duration": "0:00:13",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox",
-                        "title": "Inbox (10,946) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 01:33:17",
-                        "duration": "0:19:26",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/",
-                        "title": "Inbox (10,941) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 01:33:15",
-                        "duration": "0:00:02",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox",
-                        "title": "Inbox (10,946) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 01:12:26",
-                        "duration": "0:19:26",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://mail.google.com/mail/u/0/#inbox",
-                        "title": "Inbox (10,946) - rahilshaikh261001@gmail.com - Gmail",
-                        "timestamp": "2024-03-25 01:11:59",
-                        "duration": "0:19:26",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "chat.openai.com": {
-                "total_time_spent": "1 day, 14:05:40",
-                "visited_links": [
-                    {
-                        "url": "https://chat.openai.com/c/eb938e74-d50e-4c1f-a483-3b53a112d18a",
-                        "title": "Bookstore Loyalty Program Ideas",
-                        "timestamp": "2024-03-25 14:38:18",
-                        "duration": "9:31:25",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://chat.openai.com/c/eb938e74-d50e-4c1f-a483-3b53a112d18a",
-                        "title": "Bookstore Loyalty Program Ideas",
-                        "timestamp": "2024-03-25 02:35:18",
-                        "duration": "9:31:25",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://chat.openai.com/c/eb938e74-d50e-4c1f-a483-3b53a112d18a",
-                        "title": "Bookstore Loyalty Program Ideas",
-                        "timestamp": "2024-03-25 02:10:49",
-                        "duration": "9:31:25",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://chat.openai.com/c/eb938e74-d50e-4c1f-a483-3b53a112d18a",
-                        "title": "Bookstore Loyalty Program Ideas",
-                        "timestamp": "2024-03-25 01:12:00",
-                        "duration": "9:31:25",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "login.microsoftonline.com": {
-                "total_time_spent": "0:00:28",
-                "visited_links": [
-                    {
-                        "url": "https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638469541785128928.NzkzYTQzZmQtOTUzOS00MTFlLWI5NmEtNDZlYTQ2MWFjZGQ1Zjk0YTRkYzktNGU3Yy00Y2FjLWFlZmEtODc0NDQxMDIxMjAy&ui_locales=en-US&mkt=en-US&login_hint=rahils%40winsoftech.com&msafed=0&client-request-id=e010a733-b693-48f4-89c6-f85687f48c9d&state=nTLXRyk92jJpkcQfpVY3ZXCrmngFluWuBI2cFhRS0c6u5JDEOanGBVOVt-WmBwwsbnMPSHdQKLApmB7_XkBKPtbq85u-47m4WTc2YRR9wBhl3LOT2t3ocbyz2GOOK3qVwCktYz_VYKPKqb99eYVIXPNVKvcBIOTgRVoaVqA8GrvTATm5IuNNJU-Uze0oK1bDKx--sbg_CmkvbeZyN-08ECLFxqyJKgFwlQXVAqEpkrWDMiAy54aVDq5BiPvT0HswnBU-CwhUdQ7T8DvkJxBdrZN2iJZnyNndA1ikkUS7oDPq-dnHvXlqh5ms_7-UrG22tiEjYRnvZxOpV55tjv48kekViK6bTeXdXWxDcjNCg7rNNcomfOPc1aqIN7RqlAyq&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0",
-                        "title": "Working...",
-                        "timestamp": "2024-03-25 14:32:15",
-                        "duration": "0:00:28",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=e7c62ff3-a985-26c8-369f-166dcc3b9087&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=winsoftech.com&nonce=638469541654111899.8048d007-7c32-47be-aab1-b2ad28047d64&state=DYvBjoIwAERh_RdvrC1CoQezCYRKjLha2mK4tbSHVYgVCS7_th-3PbyZvEzG9zxv5fhw-MCFl6BtGiEcRxA5IEwx_kxBlGoAkiDptmEQJcoEUioYqFDq0I2JRpHvvn_-5vGWm6_XJCezg-vR6J_RdBN77GRJQVdW6LjgWV_pS4V4PA54aIf-1tbxTYVgVg2xKsdWDYfZuG5znF0EGS9c1xL2iDFxpuT-ZoRm5h4_6ZV-O18YqH6lsFztp0oAsLDG1qqIS86yEy1ay3qScU7KGmghmknoQuR8bw8ctJUmfBHwlJ3r9B8",
-                        "title": "Working...",
-                        "timestamp": "2024-03-25 14:32:02",
-                        "duration": "0:00:00",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "outlook.office.com": {
-                "total_time_spent": "0:00:07",
-                "visited_links": [
-                    {
-                        "url": "https://outlook.office.com/mail/inbox/id/AAQkAGRkYzM5ODY0LTAzNjEtNDY2OC1iZTlkLWM2MjRlNGQ0MDFiNQAQAGKGUUkUtEBPjISFLtU2WSA%3d/",
-                        "title": "Outlook",
-                        "timestamp": "2024-03-25 14:32:02",
-                        "duration": "0:00:04",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://outlook.office.com/mail/inbox/id/AAQkAGRkYzM5ODY0LTAzNjEtNDY2OC1iZTlkLWM2MjRlNGQ0MDFiNQAQAGKGUUkUtEBPjISFLtU2WSA%3D",
-                        "title": "Working...",
-                        "timestamp": "2024-03-25 14:31:59",
-                        "duration": "0:00:03",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "www-91mobiles-com.cdn.ampproject.org": {
-                "total_time_spent": "1:00:58",
-                "visited_links": [
-                    {
-                        "url": "https://www-91mobiles-com.cdn.ampproject.org/v/s/www.91mobiles.com/oneplus-nord-ce-4-5g-price-in-india-amp?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=17113536315201&csi=1&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.91mobiles.com%2Foneplus-nord-ce-4-5g-price-in-india",
-                        "title": "OnePlus Nord CE 4 5G - Specifications & Release Date (25th March 2024) | 91mobiles.com",
-                        "timestamp": "2024-03-25 13:31:01",
-                        "duration": "1:00:58",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www-91mobiles-com.cdn.ampproject.org/v/s/www.91mobiles.com/oneplus-nord-ce-4-5g-price-in-india-amp?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=17113536315201&csi=1&referrer=https%3A%2F%2Fwww.google.com",
-                        "title": "OnePlus Nord CE 4 5G - Specifications & Release Date (25th March 2024) | 91mobiles.com",
-                        "timestamp": "2024-03-25 13:31:01",
-                        "duration": "0:00:00",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "m-gsmarena-com.cdn.ampproject.org": {
-                "total_time_spent": "0:00:03",
-                "visited_links": [
-                    {
-                        "url": "https://m-gsmarena-com.cdn.ampproject.org/v/s/m.gsmarena.com/oneplus_nord_ce4-ampp-12892.php?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=17113536315201&csi=1&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.gsmarena.com%2Foneplus_nord_ce4-12892.php",
-                        "title": "OnePlus Nord CE4 - Full phone specifications",
-                        "timestamp": "2024-03-25 13:30:58",
-                        "duration": "0:00:03",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://m-gsmarena-com.cdn.ampproject.org/v/s/m.gsmarena.com/oneplus_nord_ce4-ampp-12892.php?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=17113536315201&csi=1&referrer=https%3A%2F%2Fwww.google.com",
-                        "title": "OnePlus Nord CE4 - Full phone specifications",
-                        "timestamp": "2024-03-25 13:30:58",
-                        "duration": "0:00:00",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "www-indiatoday-in.cdn.ampproject.org": {
-                "total_time_spent": "0:00:49",
-                "visited_links": [
-                    {
-                        "url": "https://www-indiatoday-in.cdn.ampproject.org/v/s/www.indiatoday.in/amp/technology/news/story/oneplus-nord-ce4-price-in-india-leaked-ahead-of-april-1-launch-2517543-2024-03-21?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From%20%251%24s&aoh=17113535125979&csi=0&referrer=https%3A%2F%2Fwww.google.com",
-                        "title": "OnePlus Nord CE4 price in India leaked ahead of April 1 launch\u00a0 - India Today",
-                        "timestamp": "2024-03-25 13:30:09",
-                        "duration": "0:00:49",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "www-abplive-com.cdn.ampproject.org": {
-                "total_time_spent": "1:35:40",
-                "visited_links": [
-                    {
-                        "url": "https://www-abplive-com.cdn.ampproject.org/v/s/www.abplive.com/news/india/holi-2023-celebration-is-holi-colures-really-prohibited-in-islam-abpp-2351414/amp?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=17113478357289&csi=1&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.abplive.com%2Fnews%2Findia%2Fholi-2023-celebration-is-holi-colures-really-prohibited-in-islam-abpp-2351414",
-                        "title": "Holi 2023 Celebration Is Holi Colures Really Prohibited In Islam Abpp | \u0939\u094b\u0932\u0940: \u0915\u094d\u092f\u093e \u092e\u0941\u0938\u0932\u092e\u093e\u0928\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0930\u0902\u0917 \u0916\u0947\u0932\u0928\u093e \u0939\u0930\u093e\u092e \u0939\u0948?",
-                        "timestamp": "2024-03-25 11:54:30",
-                        "duration": "1:35:39",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www-abplive-com.cdn.ampproject.org/v/s/www.abplive.com/news/india/holi-2023-celebration-is-holi-colures-really-prohibited-in-islam-abpp-2351414/amp?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=17113478357289&csi=1&referrer=https%3A%2F%2Fwww.google.com",
-                        "title": "Holi 2023 Celebration Is Holi Colures Really Prohibited In Islam Abpp | \u0939\u094b\u0932\u0940: \u0915\u094d\u092f\u093e \u092e\u0941\u0938\u0932\u092e\u093e\u0928\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0930\u0902\u0917 \u0916\u0947\u0932\u0928\u093e \u0939\u0930\u093e\u092e \u0939\u0948?",
-                        "timestamp": "2024-03-25 11:54:29",
-                        "duration": "0:00:01",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "www.amazon.in": {
-                "total_time_spent": "0:15:55",
-                "visited_links": [
-                    {
-                        "url": "https://www.amazon.in/gp/product/B0CT2RG6G8?ie=UTF8&th=1&linkCode=sl1&tag=techunique06-21&linkId=f752f559122643c736ff8305a1cb551d&language=en_IN&ref_=as_li_ss_tl",
-                        "title": "Zapcase Back Case Cover for OnePlus 12R 5G | Compatible for OnePlus 12R 5G Back Case Cover| Liquid Silicon Magic Case for OnePlus 12R 5G with Camera Protection | Sapphire : Amazon.in: Electronics",
-                        "timestamp": "2024-03-25 01:46:01",
-                        "duration": "0:05:11",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.amazon.in/gp/product/B0CT2RG6G8?ie=UTF8&th=1&linkCode=sl1&tag=techunique06-21&linkId=f752f559122643c736ff8305a1cb551d&language=en_IN&ref_=as_li_ss_tl#video-immersive-view_1711311339931",
-                        "title": "Zapcase Back Case Cover for OnePlus 12R 5G | Compatible for OnePlus 12R 5G Back Case Cover| Liquid Silicon Magic Case for OnePlus 12R 5G with Camera Protection | Sapphire : Amazon.in: Electronics",
-                        "timestamp": "2024-03-25 01:45:39",
-                        "duration": "0:00:22",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.amazon.in/gp/product/B0CT2RG6G8?ie=UTF8&th=1&linkCode=sl1&tag=techunique06-21&linkId=f752f559122643c736ff8305a1cb551d&language=en_IN&ref_=as_li_ss_tl",
-                        "title": "Zapcase Back Case Cover for OnePlus 12R 5G | Compatible for OnePlus 12R 5G Back Case Cover| Liquid Silicon Magic Case for OnePlus 12R 5G with Camera Protection | Sapphire : Amazon.in: Electronics",
-                        "timestamp": "2024-03-25 01:45:22",
-                        "duration": "0:05:11",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.amazon.in/gp/product/B0CT2RG6G8?ie=UTF8&th=1&linkCode=sl1&tag=techunique06-21&linkId=f752f559122643c736ff8305a1cb551d&language=en_IN&ref_=as_li_ss_tl",
-                        "title": "Zapcase Back Case Cover for OnePlus 12R 5G | Compatible for OnePlus 12R 5G Back Case Cover| Liquid Silicon Magic Case for OnePlus 12R 5G with Camera Protection | Sapphire : Amazon.in: Electronics",
-                        "timestamp": "2024-03-25 01:44:54",
-                        "duration": "0:05:11",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "web.whatsapp.com": {
-                "total_time_spent": "0:25:18",
-                "visited_links": [
-                    {
-                        "url": "https://web.whatsapp.com/",
-                        "title": "(1) WhatsApp",
-                        "timestamp": "2024-03-25 01:20:36",
-                        "duration": "0:12:39",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    },
-                    {
-                        "url": "https://web.whatsapp.com/",
-                        "title": "(1) WhatsApp",
-                        "timestamp": "2024-03-25 01:11:59",
-                        "duration": "0:12:39",
-                        "email": "rahilshaikh261001@gmail.com",
-                        "full_name": "Rahil Shaikh"
-                    }
-                ]
-            },
-            "mahadbt.maharashtra.gov.in": {
-                "total_time_spent": "0:00:49",
-                "visited_links": [
-                    {
-                        "url": "https://mahadbt.maharashtra.gov.in/login/login",
-                        "title": "",
-                        "timestamp": "2024-03-25 01:12:56",
-                        "duration": "0:00:49",
                         "email": "rahilshaikh261001@gmail.com",
                         "full_name": "Rahil Shaikh"
                     }
@@ -654,212 +27,21 @@
     "Profile 1": {
         "history": {
             "localhost:5173": {
-                "total_time_spent": "6:21:26",
+                "total_time_spent": "0:00:02",
                 "visited_links": [
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 16:01:25",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 16:00:48",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:59:29",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:58:56",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:57:26",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:57:22",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:56:33",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:56:03",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:55:57",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:55:07",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:50:09",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:41:58",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:37:15",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/test",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:34:11",
-                        "duration": "0:27:14",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
                     {
                         "url": "http://localhost:5173/",
                         "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:34:09",
-                        "duration": "0:00:05",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "http://localhost:5173/",
-                        "title": "Vite + React",
-                        "timestamp": "2024-03-25 15:34:06",
-                        "duration": "0:00:05",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    }
-                ]
-            },
-            "www.youtube.com": {
-                "total_time_spent": "0:00:08",
-                "visited_links": [
-                    {
-                        "url": "https://www.youtube.com/watch?v=-6LvNku2nJE&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=39",
-                        "title": "Adding form and slug values - YouTube",
-                        "timestamp": "2024-03-25 15:33:59",
-                        "duration": "0:00:07",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVAxdjAzQ3ZkckZJWnhOcVEyY1FQVmdUUlRzQXxBQ3Jtc0tuZUduYUpfRXRyUGdOWWc4cTJ5ckN6MUdBWng4eHprVWkwSGFjMFktRWl6Ykg4OV9vQkltOXhNeEVrR1VVQjI4VDctWjBpVE9mZmEwM0pialNtTlJGVzJUcVFvdjZqVWk5NWVyNVUwUFN1Z3k0b0swMA&q=https%3A%2F%2Facademy.dhruvrathee.com%2Fhome&v=RJfqzUWZ0Bw&html_redirect=1",
-                        "title": "home",
-                        "timestamp": "2024-03-25 03:31:41",
+                        "timestamp": "2024-04-10 09:47:57",
                         "duration": "0:00:01",
                         "email": "sahilsk565678@gmail.com",
                         "full_name": "Sahil Shaikh"
-                    }
-                ]
-            },
-            "www.jiocinema.com": {
-                "total_time_spent": "23:30:33",
-                "visited_links": [
-                    {
-                        "url": "https://www.jiocinema.com/sports",
-                        "title": "Watch Live Sports Streaming, Schedule, Scores & Highlights Online on JioCinema",
-                        "timestamp": "2024-03-25 03:49:46",
-                        "duration": "11:45:11",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
                     },
                     {
-                        "url": "https://www.jiocinema.com/listing/tata-ipl-opening-weekend-s-top-performers/5c983e2808f432dcd708675102d42ff2?layout=3x4%203%20cards&card=default&isPlaylist=false",
-                        "title": "Watch Tata Ipl Opening Weekend S Top Performers videos only on JioCinema",
-                        "timestamp": "2024-03-25 03:49:35",
-                        "duration": "0:00:11",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "https://www.jiocinema.com/sports",
-                        "title": "Watch Live Sports Streaming, Schedule, Scores & Highlights Online on JioCinema",
-                        "timestamp": "2024-03-25 03:48:37",
-                        "duration": "11:45:11",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    }
-                ]
-            },
-            "academy.dhruvrathee.com": {
-                "total_time_spent": "0:16:55",
-                "visited_links": [
-                    {
-                        "url": "https://academy.dhruvrathee.com/web/checkout/64abb0433fcf6e1fc7bdb47b",
-                        "title": "Master ChatGPT: Transform Your Life With AI Chatbots | Dhruv Rathee",
-                        "timestamp": "2024-03-25 03:31:55",
-                        "duration": "0:16:42",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "https://academy.dhruvrathee.com/chatgpt",
-                        "title": "ChatGPT",
-                        "timestamp": "2024-03-25 03:31:50",
-                        "duration": "0:00:05",
-                        "email": "sahilsk565678@gmail.com",
-                        "full_name": "Sahil Shaikh"
-                    },
-                    {
-                        "url": "https://academy.dhruvrathee.com/home",
-                        "title": "home",
-                        "timestamp": "2024-03-25 03:31:42",
-                        "duration": "0:00:08",
+                        "url": "http://localhost:5173/",
+                        "title": "Vite + React",
+                        "timestamp": "2024-04-10 09:47:56",
+                        "duration": "0:00:01",
                         "email": "sahilsk565678@gmail.com",
                         "full_name": "Sahil Shaikh"
                     }
@@ -871,7 +53,221 @@
         "history": {}
     },
     "Profile 4": {
-        "history": {}
+        "history": {
+            "mail.google.com": {
+                "total_time_spent": "2:17:52",
+                "visited_links": [
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox",
+                        "title": "Inbox (463) - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:52:57",
+                        "duration": "0:00:00",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:52:38",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:52:38",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent?compose=DmwnWsmDPkVbhpCvbxfccRNFlDFXgNmcwBfJMCtTxDhkMHMdmVXpZVGrBfCbmcGjjQbjRNRqdtRG",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:52:00",
+                        "duration": "0:00:38",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent?compose=DmwnWsmDPkVbhpCvbxfccRNFlDFXgNmcwBfJMCtTxDhkMHMdmVXpZVGrBfCbmcGjjQbjRNRqdtRG",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:52:00",
+                        "duration": "0:00:38",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent?compose=new",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:51:56",
+                        "duration": "0:00:04",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent?compose=new",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:51:56",
+                        "duration": "0:00:04",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:44:39",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:44:39",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/QgrcJHrnxVBgfsHTPjvmxchbSfSQBjGgFzQ",
+                        "title": "ML Update Practical 6 to 9 - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:44:03",
+                        "duration": "0:00:36",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/QgrcJHrnxVBgfsHTPjvmxchbSfSQBjGgFzQ",
+                        "title": "ML Update Practical 6 to 9 - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:44:03",
+                        "duration": "0:00:36",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:43:46",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:43:46",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/QgrcJHsNnjdLnsdDsCJPlbgnWVBSXrRkGwg",
+                        "title": "DAV Practical 1 to 7 - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:42:57",
+                        "duration": "0:09:27",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/QgrcJHsNnjdLnsdDsCJPlbgnWVBSXrRkGwg",
+                        "title": "DAV Practical 1 to 7 - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:42:57",
+                        "duration": "0:09:27",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:42:54",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:42:54",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/QgrcJHsbdJHXjbzzBBxZXXGptTGjCVpjctQ",
+                        "title": "SEPM Practical 1 to 10 - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:42:27",
+                        "duration": "0:00:27",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/QgrcJHsbdJHXjbzzBBxZXXGptTGjCVpjctQ",
+                        "title": "SEPM Practical 1 to 10 - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:42:27",
+                        "duration": "0:00:27",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:42:24",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:42:24",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/QgrcJHsNnjdLnsdDsCJPlbgnWVBSXrRkGwg",
+                        "title": "DAV Practical 1 to 7 - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:33:46",
+                        "duration": "0:09:27",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/QgrcJHsNnjdLnsdDsCJPlbgnWVBSXrRkGwg",
+                        "title": "DAV Practical 1 to 7 - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:33:46",
+                        "duration": "0:09:27",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:33:43",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent",
+                        "title": "Sent Mail - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:33:43",
+                        "duration": "0:08:02",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    },
+                    {
+                        "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/QgrcJHsNnjdLnsdDsCJPlbgnWVBSXrRkGwg",
+                        "title": "DAV Practical 1 to 7 - vu2s2223012@pvppcoe.ac.in - Padmabhushan Vasantdada Patil Pratishthan\u2019s College of Engineering Mail",
+                        "timestamp": "2024-04-10 10:33:33",
+                        "duration": "0:00:10",
+                        "email": "vu2s2223012@pvppcoe.ac.in",
+                        "full_name": "SHAIKH SAHIL"
+                    }
+                ]
+            }
+        }
     },
     "Profile 5": {
         "history": {}

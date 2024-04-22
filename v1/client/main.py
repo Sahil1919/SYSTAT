@@ -9,7 +9,7 @@ from plyer import notification
 from cryptogen import DataEncryption
 from browser_monitor import FileModifiedHandler
 from watchdog.events import FileSystemEventHandler
-
+from app_monitor import monitor_processes
 
 DEFAULT_THRESHOLD = 10.0  # Set your default threshold value, e.g., 10% usage
 # Update dynamic threshold every 60 seconds
@@ -130,6 +130,7 @@ if __name__ == "__main__":
     print('Started......')
     # Main loop
     while state:
+        monitor_processes()
         try:
             # print(ok)
             # Check if it's time to update the dynamic threshold
@@ -153,6 +154,11 @@ if __name__ == "__main__":
 
                 history = json.loads(f.read())
                 stats['browser_history'] = history
+
+            with open(f'{current_path}/process_info.json', 'r', encoding='utf8') as f:
+
+                history = json.loads(f.read())
+                stats['app_history'] = history
 
             encrypted_data = DataEncryption(
                 data_to_encrypt=json.dumps(stats)).encrypted_data

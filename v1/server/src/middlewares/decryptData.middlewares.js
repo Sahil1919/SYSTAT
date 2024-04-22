@@ -18,7 +18,7 @@ const decryptDataHandler = asyncHandler(async (req, _, next) => {
         const aes_key = crypto.privateDecrypt({ key: private_key }, receivedEncAESKey);
 
         // Check key length
-        if (aes_key.length !== 32) {
+        if (aes_key.length !== 128) {
             throw new ApiError(401, 'Invalid AES key length from client !!!');
         }
 

@@ -18,7 +18,7 @@ class DataEncryption:
         self.data_to_encrypt = data_to_encrypt
 
         # Generate a random AES key
-        self.aes_key = get_random_bytes(32)
+        self.aes_key = get_random_bytes(128)
 
         # Encrypt data with AES
         nonce, tag, ciphertext = self.encrypt_data()
