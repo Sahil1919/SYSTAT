@@ -1,0 +1,244 @@
+{
+    "DESKTOP-OJ1INJO\\it_ae": [
+        {
+            "name": "mc-fw-host.exe",
+            "total_time": "06:20:06"
+        },
+        {
+            "name": "conhost.exe",
+            "total_time": "00:25:34"
+        },
+        {
+            "name": "svchost.exe",
+            "total_time": "05:06:16"
+        },
+        {
+            "name": "taskhostw.exe",
+            "total_time": "06:20:06"
+        },
+        {
+            "name": "chrome.exe",
+            "total_time": "02:37:31"
+        },
+        {
+            "name": "SDXHelper.exe",
+            "total_time": "02:41:02"
+        },
+        {
+            "name": "Widgets.exe",
+            "total_time": "06:20:04"
+        },
+        {
+            "name": "powershell.exe",
+            "total_time": "02:29:56"
+        },
+        {
+            "name": "python.exe",
+            "total_time": "00:10:05"
+        },
+        {
+            "name": "fsnotifier.exe",
+            "total_time": "06:19:49"
+        },
+        {
+            "name": "brave.exe",
+            "total_time": "06:19:08"
+        },
+        {
+            "name": "DellPair.exe",
+            "total_time": "06:20:06"
+        },
+        {
+            "name": "cmd.exe",
+            "total_time": "00:25:31"
+        },
+        {
+            "name": "sihost.exe",
+            "total_time": "06:20:06"
+        },
+        {
+            "name": "OpenConsole.exe",
+            "total_time": "06:18:28"
+        },
+        {
+            "name": "RuntimeBroker.exe",
+            "total_time": "00:58:07"
+        },
+        {
+            "name": "explorer.exe",
+            "total_time": "06:20:06"
+        },
+        {
+            "name": "VyaparApp.exe",
+            "total_time": "06:19:04"
+        },
+        {
+            "name": "ipf_helper.exe",
+            "total_time": "06:20:06"
+        },
+        {
+            "name": "LockApp.exe",
+            "total_time": "02:57:02"
+        },
+        {
+            "name": "UserOOBEBroker.exe",
+            "total_time": "06:20:04"
+        },
+        {
+            "name": "TextInputHost.exe",
+            "total_time": "06:19:55"
+        },
+        {
+            "name": "SearchHost.exe",
+            "total_time": "06:20:05"
+        },
+        {
+            "name": "StartMenuExperienceHost.exe",
+            "total_time": "06:20:05"
+        },
+        {
+            "name": "dllhost.exe",
+            "total_time": "03:45:41"
+        },
+        {
+            "name": "ctfmon.exe",
+            "total_time": "06:20:03"
+        },
+        {
+            "name": "SystemSettingsBroker.exe",
+            "total_time": "06:15:03"
+        },
+        {
+            "name": "PowerToys.exe",
+            "total_time": "06:20:02"
+        },
+        {
+            "name": "pycharm64.exe",
+            "total_time": "06:19:23"
+        },
+        {
+            "name": "PowerToys.AdvancedPaste.exe",
+            "total_time": "06:20:00"
+        },
+        {
+            "name": "PowerToys.AlwaysOnTop.exe",
+            "total_time": "06:20:00"
+        },
+        {
+            "name": "PowerToys.Awake.exe",
+            "total_time": "06:20:00"
+        },
+        {
+            "name": "PowerToys.ColorPickerUI.exe",
+            "total_time": "06:20:00"
+        },
+        {
+            "name": "PowerToys.CropAndLock.exe",
+            "total_time": "06:20:00"
+        },
+        {
+            "name": "PowerToys.FancyZones.exe",
+            "total_time": "06:20:00"
+        },
+        {
+            "name": "language_server_windows_x64.exe",
+            "total_time": "00:57:43"
+        },
+        {
+            "name": "PowerToys.KeyboardManagerEngine.exe",
+            "total_time": "06:20:00"
+        },
+        {
+            "name": "PowerToys.Peek.UI.exe",
+            "total_time": "06:20:00"
+        },
+        {
+            "name": "PowerToys.PowerLauncher.exe",
+            "total_time": "06:20:00"
+        },
+        {
+            "name": "PowerToys.PowerOCR.exe",
+            "total_time": "06:20:00"
+        },
+        {
+            "name": "GoogleDriveFS.exe",
+            "total_time": "06:19:28"
+        },
+        {
+            "name": "SecurityHealthSystray.exe",
+            "total_time": "06:19:33"
+        },
+        {
+            "name": "crashpad_handler.exe",
+            "total_time": "06:19:28"
+        },
+        {
+            "name": "SystemSettings.exe",
+            "total_time": "01:04:21"
+        },
+        {
+            "name": "CrossDeviceService.exe",
+            "total_time": "06:19:04"
+        },
+        {
+            "name": "AnyDesk.exe",
+            "total_time": "06:19:00"
+        },
+        {
+            "name": "ONENOTEM.EXE",
+            "total_time": "06:18:59"
+        },
+        {
+            "name": "WidgetService.exe",
+            "total_time": "06:04:51"
+        },
+        {
+            "name": "uihost.exe",
+            "total_time": "06:18:40"
+        },
+        {
+            "name": "node.exe",
+            "total_time": "00:25:29"
+        },
+        {
+            "name": "browserhost.exe",
+            "total_time": "06:12:56"
+        },
+        {
+            "name": "mc-extn-browserhost.exe",
+            "total_time": "06:12:56"
+        },
+        {
+            "name": "ShellExperienceHost.exe",
+            "total_time": "06:15:03"
+        },
+        {
+            "name": "ApplicationFrameHost.exe",
+            "total_time": "06:15:33"
+        },
+        {
+            "name": "AdobeCollabSync.exe",
+            "total_time": "02:29:04"
+        },
+        {
+            "name": "backgroundTaskHost.exe",
+            "total_time": "01:39:07"
+        },
+        {
+            "name": "py.exe",
+            "total_time": "00:00:57"
+        },
+        {
+            "name": "Code.exe",
+            "total_time": "00:58:06"
+        },
+        {
+            "name": "smartscreen.exe",
+            "total_time": "00:03:23"
+        },
+        {
+            "name": "dart.exe",
+            "total_time": "00:57:23"
+        }
+    ]
+}
