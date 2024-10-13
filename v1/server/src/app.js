@@ -16,6 +16,7 @@ app.use(
 app.use(cookieParser())
 app.use(express.json())
 app.use(express.urlencoded({
+    limit: '50mb',
     extended: true
 }))
 

@@ -8,6 +8,7 @@ lerna-debug.log*
 .pnpm-debug.log*
 *.pem
 venv
+dummy_history_dbs
 __pycache__
 .vscode
 # Diagnostic reports (https://nodejs.org/api/report.html)

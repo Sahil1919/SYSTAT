@@ -19,7 +19,8 @@ const getStats = asyncHandler(async (req, res) => {
             httpOnly : true,
             secure: true
         }
-
+        console.log(JSON.stringify(req.systemInfo));
+        
         return res.status(200)
             .cookie("systemInfo", JSON.stringify(req.systemInfo),options)
             .json(
