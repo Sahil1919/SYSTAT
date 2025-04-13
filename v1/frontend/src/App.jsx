@@ -1,35 +1,45 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
+import Box from "@mui/material/Box";
+import Grid from "@mui/material/Unstable_Grid2/Grid2";
+import { Stack, ThemeProvider, createTheme } from "@mui/material";
+import Sidebar from "./Global/Sidebar";
+import Navbar from "./Global/Navbar";
+import Dashboard from "./Global/Dashboard";
+import { Route, Routes } from "react-router";
+import About from "./pages/About";
+import ActivePC from "./pages/ActivePC";
+import ActivePC2 from "./pages/ActivePC2";
+import CollapseBar from "./components/test/collapseBar";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [mode, setMode] = useState("light");
+
+  const darkTheme = createTheme({
+    palette: {
+      mode: mode,
+    },
+  });
 
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <ThemeProvider theme={darkTheme}>
+      <Box>
+        <Stack direction="row">
+          {/* <CollapseBar/> */}
+          <Sidebar mode={mode} setMode={setMode} />
+          <Stack flex={6}>
+            <Navbar />
+            <Routes>
+              <Route path="/" element={<Dashboard />} />
+              <Route path="/Dashboard" element={<Dashboard />} />
+              <Route path="/ActivePC" element={<ActivePC2/>} />
+              <Route path="/About" element={<About />} />
+              <Route path="/Documentation" element={<About />} />
+            </Routes>
+          </Stack>
+        </Stack>
+      </Box>
+    </ThemeProvider>
+  );
 }
 
-export default App
+export default App;

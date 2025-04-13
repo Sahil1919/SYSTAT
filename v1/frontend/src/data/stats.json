@@ -1,0 +1,89 @@
+{
+    "systemInfo": {
+        "Curr_time": "06/02/2024, 10:34:22",
+        "System Info": {
+            "sys_type": "Windows",
+            "sys_name": "DESKTOP-OJ1INJO",
+            "release_version": "10",
+            "sys_version": "10.0.22631",
+            "machine_verion": "AMD64",
+            "sys_processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel"
+        },
+        "Boot Time": {
+            "year": 2024,
+            "month": 2,
+            "day": 5,
+            "hour": 15,
+            "minute": 45,
+            "second": 5
+        },
+        "CPU Info": {
+            "physical_cores": "12",
+            "total_cores": "16",
+            "maxfrequency": "1700.00Mhz",
+            "minfrequency": "0.00Mhz",
+            "current_frequency": "1700.00Mhz",
+            "total_cpu_usage": "6.2%"
+        },
+        "Memory Usage": {
+            "main_memory_details": {
+                "total": "15.69GB",
+                "available": "3.97GB",
+                "used": "11.72GB",
+                "percentage": "74.7%"
+            },
+            "swap_memory_details": {
+                "total": "4.50GB",
+                "free": "4.42GB",
+                "used": "86.48MB",
+                "percentage": "1.9%"
+            }
+        },
+        "Disk Usage": {
+            "disk_partition": [
+                {
+                    "partition_name": "C:\\",
+                    "mountpoint": "C:\\",
+                    "file_system_type": "NTFS",
+                    "total_size": "360.56GB",
+                    "used": "191.14GB",
+                    "free": "169.42GB",
+                    "percentage": "53.0%"
+                },
+                {
+                    "partition_name": "D:\\",
+                    "mountpoint": "D:\\",
+                    "file_system_type": "NTFS",
+                    "total_size": "97.66GB",
+                    "used": "9.67GB",
+                    "free": "87.99GB",
+                    "percentage": "9.9%"
+                }
+            ],
+            "total_read": "8.61GB",
+            "total_write": "5.72GB"
+        },
+        "Network Info": {
+            "hostname": "DESKTOP-OJ1INJO",
+            "ip_address": "192.168.1.207",
+            "network_interfaces": [
+                {
+                    "interface 1": "{719BE818-3A10-44BD-A6D2-9627E6FA17AE}",
+                    "ip_address": "192.168.1.207",
+                    "netmask": "255.255.255.0",
+                    "broadcast_ip": "192.168.1.255"
+                },
+                {
+                    "interface 2": "{AD00B695-2781-11ED-B9A9-806E6F6E6963}",
+                    "ip_address": "127.0.0.1",
+                    "netmask": "255.0.0.0",
+                    "broadcast_ip": "127.255.255.255"
+                }
+            ],
+            "total_bytes_sent": "23.00MB",
+            "total_bytes_received": "141.59MB"
+        }
+    },
+    "pcNo": 1,
+    "lastResponseTime": 1707195862952
+}
